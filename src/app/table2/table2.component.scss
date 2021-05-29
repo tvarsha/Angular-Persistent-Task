@@ -66,3 +66,9 @@ input[type="text"] {
     border: 1px solid #bacae2;
     padding: 10px;
 }
+
+
+#customers td:nth-child(3) {
+    text-align: right !important;
+    float: right;
+}
